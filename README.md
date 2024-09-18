@@ -17,6 +17,11 @@ Please check the doc and demo of PuLID-FLUX [here](docs/pulid_for_flux.md).
 
 We will actively update and maintain this repository in the near future, so please stay tuned.
 
+### Generate image
+``` 
+python infer_pulid_flux.py
+```
+
 ### updates
 - [x] Local gradio demo is ready now
 - [x] Online HuggingFace demo is ready now [![flux](https://img.shields.io/badge/🤗-PuLID_FLUX_demo-orange)](https://huggingface.co/spaces/yanze/PuLID-FLUX)
